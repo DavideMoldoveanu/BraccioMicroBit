@@ -1,7 +1,7 @@
 Link makecode 
 
 File sender:
-https://makecode.microbit.org/_1fYFaADkUgdD
+https://makecode.microbit.org/_YC3Lkt3cFVj8
 
 File receiver:
-https://makecode.microbit.org/_f01hhfcpsUxP
+https://makecode.microbit.org/_cfd7qMUyWJCa
